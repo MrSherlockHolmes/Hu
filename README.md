@@ -1,2 +1,2 @@
 # Hu
-Flexible Human Code
+Somewhat flexible conceptualisation
